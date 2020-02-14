@@ -1,1 +1,1 @@
-from gym_ALM.envs.ALM_env import ALMEnv
+from gym_ALM.envs.ALM_env import ALM
